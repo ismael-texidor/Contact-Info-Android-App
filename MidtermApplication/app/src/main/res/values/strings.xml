@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Address Book</string>
+    <string name="name_hint">Name</string>
+    <string name="phone_hint">Phone</string>
+    <string name="email_hint">E-mail</string>
+    <string name="address_label">Address</string>
+    <string name="street_hint">Street</string>
+    <string name="cSZ_hint">City/State/Zip</string>
+</resources>
